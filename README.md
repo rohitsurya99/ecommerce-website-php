@@ -20,12 +20,12 @@ To Login as admin put inside URL:”http://localhost/ecommerce-website/admin_pan
 ```
 Admin login details:
 ```
-email:ave@user.com
-password:123
+email:mach15@mach.com
+password:qwert
 
 ```
 
 
 ## Authors
 
-* **Yasser Dalouzi** - *eCommerce Website* - (https://github.com/yvsser1)
+******INFINITE DEVELOPERS*******
